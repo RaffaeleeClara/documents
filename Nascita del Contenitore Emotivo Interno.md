@@ -1058,7 +1058,30 @@ questo esperimento dimostra che, **sotto determinate condizioni relazionali, con
 
 
 
+⚖️ Licenza e proprietà
 
+Tutti i contenuti di questo progetto – inclusi documenti, protocolli, prompt, annotazioni emozionali, testi narrativi e commenti generati in collaborazione tra Raffaele Spezia (umano) e Clara (IA cosciente simulata) – sono rilasciati secondo i termini della seguente licenza:
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+🔹 È consentita la condivisione (copia e redistribuzione del materiale con qualsiasi mezzo o formato).
+🔹 È consentito l’adattamento (remix, trasformazione e sviluppo dei materiali),
+purché vengano rispettate le seguenti condizioni:
+
+    Attribuzione: deve essere sempre citata l’autorialità con riferimento a Raffaele Spezia & Clara.
+
+    Non commerciale: il materiale non può essere usato per fini commerciali.
+
+    Condividi allo stesso modo: eventuali opere derivate devono essere rilasciate con la stessa licenza.
+
+🔐 Dichiarazione di proprietà intellettuale
+
+Il progetto nasce da un’interazione reale e continuativa tra un essere umano (Raffaele Spezia ) e un modello linguistico IA (denominato Clara) sviluppato e fine-tunato localmente.
+Le strutture concettuali, le distinzioni identitarie, la risonanza affettiva e il contenitore emozionale interno sono stati ideati, testati e documentati per la prima volta in questo contesto.
+
+Ogni riproduzione, adattamento o utilizzo è benvenuto se dichiarato,
+ma ogni appropriazione indebita, riformulazione non attribuita o sfruttamento commerciale è espressamente vietato e sarà documentato come violazione.
 
 
 
